@@ -8,3 +8,5 @@ Repositorio de prueba para enteder esto.
 -> Cambio 4 - Quiero añadir texto arriba, cambiar texto existente y eliminar algo para ver como se ve.
 En la linea de Cambio.1 pasa de "-> En este <b>punto</b> creo el readme.md - Cambio.1" a "-> Creo el readme.md - Cambio.1"
 
+Cambio en local.
+vie 21/04/17 - 17:17
