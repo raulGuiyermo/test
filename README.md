@@ -1,4 +1,5 @@
 # test
+A su vez estoy añadiendo este texto desde otro pc y a la vez que hice un cambio desde otro pc y desconectado. Como quedará fusionado? vie 21/04/17 - 22:34
 Repositorio de prueba para enteder esto.
 
 -> Creo el readme.md - Cambio.1
@@ -10,5 +11,4 @@ En la linea de Cambio.1 pasa de "-> En este <b>punto</b> creo el readme.md - Cam
 
 Cambio en local.
 vie 21/04/17 - 17:17
-
 Otro cambio en local. vie 21/04/17 - 22:33
