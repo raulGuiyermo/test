@@ -3,6 +3,7 @@ A su vez estoy añadiendo este texto desde otro pc y a la vez que hice un cambio
 Repositorio de prueba para enteder esto.
 
 -> Creo el readme.md - Cambio.1
+Cambio en la linea 6 en web - vie 21/04/17 - 22:42
 
 -> Este es un cambio hecho una vez creada la nueva rama. Es el Cambio.2 + "Commit changes"
 -> Cambio 3 + "Commit Changes", esta vez añadí un comentario.
