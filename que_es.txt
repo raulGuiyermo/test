@@ -1,8 +1,8 @@
-s·b 22/04/17 - 16:45
+s√°b 22/04/17 - 16:45
 Este fichero deberia ignorarse.
 Esta version la voy a revertir.
-
+Cambio hecho en pc2. dom 23/04/17 - 22:11
 <New>
-Se supone que este texto ahora estar· en cabeza.
+Se supone que este texto ahora estar√° en cabeza.
 Me choca que al restaurar un fichero no respete el timestamp.
 </New>
