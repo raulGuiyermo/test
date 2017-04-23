@@ -1,9 +1,11 @@
-s�b 22/04/17 - 16:45
+sáb 22/04/17 - 16:45
 Este fichero deberia ignorarse.
 Esta version la voy a revertir.
 Cambio hecho en pc2. dom 23/04/17 - 22:11
 <New>
-Se supone que este texto ahora estará en cabeza.
+Se supone que este texto ahora estarÃ¡ en cabeza.
 Me choca que al restaurar un fichero no respete el timestamp.
 </New>
-Este es un texto a�adido desde pc1 - dom 23/04/17 - 22:15
+Este es un texto añadido desde pc1 - dom 23/04/17 - 22:15
+
+Vuelto a modificar desde pc2 - dom 23/04/17 - 23:01
