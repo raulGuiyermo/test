@@ -18,12 +18,12 @@ DEFINE CLASS dataenvironment AS dataenvironment
 ENDDEFINE
 
 DEFINE CLASS form1 AS form 
- 	*< CLASSDATA: Baseclass="form" Timestamp="2017/04/23 19:05:29" Scale="" Uniqueid="" />
+ 	*< CLASSDATA: Baseclass="form" Timestamp="2017/04/23 19:18:22" Scale="" Uniqueid="" />
 
 	*-- OBJECTDATA items order determines ZOrder / El orden de los items OBJECTDATA determina el ZOrder 
-	*< OBJECTDATA: ObjPath="Label1" UniqueID="" Timestamp="2017/04/23 19:01:17" />
+	*< OBJECTDATA: ObjPath="Label1" UniqueID="" Timestamp="2017/04/23 19:18:22" />
 	*< OBJECTDATA: ObjPath="txtNombre" UniqueID="" Timestamp="2017/04/23 19:01:17" />
-	*< OBJECTDATA: ObjPath="Label2" UniqueID="" Timestamp="2017/04/23 19:01:17" />
+	*< OBJECTDATA: ObjPath="Label2" UniqueID="" Timestamp="2017/04/23 19:18:22" />
 	*< OBJECTDATA: ObjPath="txtDireccion" UniqueID="" Timestamp="2017/04/23 19:01:17" />
 	*< OBJECTDATA: ObjPath="cmdSalir" UniqueID="" Timestamp="2017/04/23 19:02:23" />
 
@@ -41,21 +41,25 @@ DEFINE CLASS form1 AS form
 		*< END OBJECT: BaseClass="commandbutton" />
 
 	ADD OBJECT 'Label1' AS label WITH ;
+		AutoSize = .T., ;
 		Caption = "Nombre:", ;
-		Height = 25, ;
+		FontBold = .T., ;
+		Height = 17, ;
 		Left = 24, ;
 		Name = "Label1", ;
 		Top = 36, ;
-		Width = 109
+		Width = 50
 		*< END OBJECT: BaseClass="label" />
 
 	ADD OBJECT 'Label2' AS label WITH ;
+		AutoSize = .T., ;
 		Caption = "Dirección:", ;
-		Height = 25, ;
+		FontBold = .T., ;
+		Height = 17, ;
 		Left = 24, ;
 		Name = "Label2", ;
 		Top = 84, ;
-		Width = 109
+		Width = 59
 		*< END OBJECT: BaseClass="label" />
 
 	ADD OBJECT 'txtDireccion' AS textbox WITH ;
