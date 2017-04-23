@@ -6,3 +6,4 @@ Esta version la voy a revertir.
 Se supone que este texto ahora estará en cabeza.
 Me choca que al restaurar un fichero no respete el timestamp.
 </New>
+Este es un texto añadido desde pc1 - dom 23/04/17 - 22:15
